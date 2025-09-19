@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TDS/TCS Rate Finder",
+  "description": "An interactive tool to quickly find TDS (Tax Deducted at Source) and TCS (Tax Collected at Source) rates and threshold limits for various types of payments for the financial year 2025-26, based on the provided documents.",
+  "requestFramePermissions": []
+}
